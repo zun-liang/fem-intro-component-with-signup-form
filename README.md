@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [here](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-using-html-css-and-js-C-LQg2R3Kn)
-- Live Site URL: [here](https://zun-liang.github.io/intro-component-with-signup-form-master/)
+- Live Site URL: [here](https://zun-liang.github.io/fem-intro-component-with-signup-form/)
 
 ## My process
 
@@ -53,7 +53,7 @@ Users should be able to:
 
 - how to style chrome autofill: -webkit-autofill
 - input focus
-- how to style placeholder (Firefox defauly opacity is 0.45)
+- how to style placeholder (Firefox default opacity is 0.45)
 - style.setProperty
 - input outline
 
